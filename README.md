@@ -1,8 +1,8 @@
 # CGPA-Calculator <br>
-# CGPA <br>
-# YGPA <br>
-# SGPA <br>
-# Complete project <br> <br>
+#CGPA <br>
+#YGPA <br>
+#SGPA <br>
+#Complete project using C++<br> <br>
 
 <b>Specially made for Dept. of CSE, PUST<b> <br> <br>
 
