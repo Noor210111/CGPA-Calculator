@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672782160 source:e:\1 2\nitun sir\project\cgpa calculator\cgpa calculator\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+
